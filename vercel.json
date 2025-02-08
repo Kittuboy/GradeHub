@@ -1,6 +1,6 @@
 { 
   "REWRITES": 
   [
-    { "SOURCE": "/(.*)", "DESTINATION": "/" }
+    { "SOURCE": "/(.*)", "DESTINATION": "/todo.html" }
   ]
 }
